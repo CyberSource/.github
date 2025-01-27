@@ -140,17 +140,9 @@
   <tr>
     <td class="tg-0lax"><a href="https://github.com/cybersource/flex-api-ios-sdk">flex-api-ios-sdk</a>
     </td>
-    <td class="tg-0lax">iOS SDK to provide credit card payment functionality, bypassing application backend servers</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/cybersource/flex-v2-ios-sdk">flex-v2-ios-sdk</a>
-    </td>
     <td class="tg-0lax">iOS SDK for Flex API v2</td>
-    <td class="tg-0lax"><a href="https://github.com/cybersource/flex-v2-ios-sample">flex-v2-ios-sample</a>
-    </td>
-    <td class="tg-0lax">Sample application to showcase how to use Flex API iOS SDK to perform payment workflow</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
