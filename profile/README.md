@@ -201,7 +201,26 @@ Unified Checkout is a Cybersource-hosted JavaScript library that embeds an all-i
 
 This product has support for manual card entry, Click to Pay, and digital wallets. Support for additional payment types is in the development pipeline.
 
-This example integration ([`cybersource-unified-checkout-sample-java`](https://github.com/cybersource/cybersource-unified-checkout-sample-java)) uses the `cybersource-rest-client` dependency to invoke Unified Checkout.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-calz">Sample Application</th>
+    <th class="tg-calz">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/cybersource/cybersource-unified-checkout-sample-java">cybersource-unified-checkout-sample-java</a>
+    </td>
+    <td class="tg-0lax">The application uses Spring Boot, Thymeleaf, and Lombok to minimize boilerplate and highlight how your controller and service layers might be structured using a Java backend.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/cybersource/cybersource-unified-checkout-sample-node">cybersource-unified-checkout-sample-node</a>
+    </td>
+    <td class="tg-0lax">This repository provides simple examples demonstrating usage of the Unified checkout and the drop-in UI flows.</td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
