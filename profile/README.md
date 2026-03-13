@@ -217,7 +217,17 @@ This product has support for manual card entry, Click to Pay, and digital wallet
   <tr>
     <td class="tg-0lax"><a href="https://github.com/cybersource/cybersource-unified-checkout-sample-node">cybersource-unified-checkout-sample-node</a>
     </td>
-    <td class="tg-0lax">This repository provides simple examples demonstrating usage of the Unified checkout and the drop-in UI flows.</td>
+    <td class="tg-0lax">This repository provides simple examples demonstrating usage of the Unified Checkout flows and the drop-in UI flows.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/CyberSource/cybersource-unified-checkout-sample-dotnet">cybersource-unified-checkout-sample-dotnet</a>
+    </td>
+    <td class="tg-0lax">This repository contains an application written in .NET 8 to demonstrate usage of the Unified Checkout flows in a visual user interface.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/CyberSource/cybersource-unified-checkout-sample-php">cybersource-unified-checkout-sample-php</a>
+    </td>
+    <td class="tg-0lax">This repository provides simple examples demonstrating usage of the Unified Checkout flows using the Laravel framework and hosted on Herd.</td>
   </tr>
 </tbody>
 </table>
